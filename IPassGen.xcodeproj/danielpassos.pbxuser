@@ -1,0 +1,208 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* IPassGen */ = {
+		activeExec = 0;
+		executables = (
+			C7283A020F750EF100E3301D /* IPassGen */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* IPassGenViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 406}}";
+			sepNavSelRange = "{178, 22}";
+			sepNavVisRange = "{0, 425}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* IPassGenViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {944, 1764}}";
+			sepNavSelRange = "{411, 0}";
+			sepNavVisRange = "{32, 772}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C7283A020F750EF100E3301D /* IPassGen */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* IPassGen */;
+		codeSenseManager = C7283A180F750F0300E3301D /* Code sense */;
+		executables = (
+			C7283A020F750EF100E3301D /* IPassGen */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					766,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 259330322;
+			PBXWorkspaceStateSaveDate = 259330322;
+		};
+		perUserProjectItems = {
+			C7283A200F75104300E3301D = C7283A200F75104300E3301D /* PBXTextBookmark */;
+			C7283A210F75104300E3301D = C7283A210F75104300E3301D /* PBXTextBookmark */;
+			C7283A220F75104300E3301D = C7283A220F75104300E3301D /* PBXTextBookmark */;
+			C7283A230F75104300E3301D = C7283A230F75104300E3301D /* PBXTextBookmark */;
+			C7283A240F75104300E3301D = C7283A240F75104300E3301D /* PBXTextBookmark */;
+			C7283A250F75104300E3301D = C7283A250F75104300E3301D /* PBXTextBookmark */;
+			C7283A260F75104300E3301D = C7283A260F75104300E3301D /* PBXTextBookmark */;
+			C7283A270F75104300E3301D = C7283A270F75104300E3301D /* PBXTextBookmark */;
+			C7B24F8D0F751119002DCEDD /* PBXTextBookmark */ = C7B24F8D0F751119002DCEDD /* PBXTextBookmark */;
+			C7B24F980F75113A002DCEDD /* PBXTextBookmark */ = C7B24F980F75113A002DCEDD /* PBXTextBookmark */;
+		};
+		sourceControlManager = C7283A170F750F0300E3301D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C7283A020F750EF100E3301D /* IPassGen */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IPassGen;
+		sourceDirectories = (
+		);
+	};
+	C7283A170F750F0300E3301D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C7283A180F750F0300E3301D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C7283A200F75104300E3301D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* IPassGenViewController.h */;
+		name = "IPassGenViewController.h: 11";
+		rLen = 22;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 425;
+		vrLoc = 0;
+	};
+	C7283A210F75104300E3301D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IPassGenViewController.m */;
+		name = "IPassGenViewController.m: 9";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 90;
+	};
+	C7283A220F75104300E3301D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* IPassGenViewController.h */;
+		name = "IPassGenViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	C7283A230F75104300E3301D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IPassGenViewController.m */;
+		name = "IPassGenViewController.m: 11";
+		rLen = 0;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 371;
+		vrLoc = 0;
+	};
+	C7283A240F75104300E3301D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* IPassGenViewController.h */;
+		name = "IPassGenViewController.h: 12";
+		rLen = 0;
+		rLoc = 222;
+		rType = 0;
+		vrLen = 425;
+		vrLoc = 0;
+	};
+	C7283A250F75104300E3301D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IPassGenViewController.m */;
+		name = "IPassGenViewController.m: 9";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 90;
+	};
+	C7283A260F75104300E3301D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* IPassGenViewController.h */;
+		name = "IPassGenViewController.h: 11";
+		rLen = 22;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 425;
+		vrLoc = 0;
+	};
+	C7283A270F75104300E3301D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IPassGenViewController.m */;
+		name = "IPassGenViewController.m: 23";
+		rLen = 0;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 177;
+	};
+	C7B24F8D0F751119002DCEDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IPassGenViewController.m */;
+		name = "IPassGenViewController.m: 23";
+		rLen = 0;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 90;
+	};
+	C7B24F980F75113A002DCEDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IPassGenViewController.m */;
+		name = "IPassGenViewController.m: 20";
+		rLen = 0;
+		rLoc = 411;
+		rType = 0;
+		vrLen = 772;
+		vrLoc = 32;
+	};
+}
